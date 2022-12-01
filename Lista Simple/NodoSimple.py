@@ -1,6 +1,6 @@
 class Nodo_Simple:
     def __init__(self,numero:int) -> None:
-        self.numero = numero
+        self.numero:int = numero
         self.nextNodo = None
     
     def esMenor(self,numero:int):
