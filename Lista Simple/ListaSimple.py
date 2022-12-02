@@ -141,6 +141,8 @@ class Lista_Simple:
                         tmp2 = tmp2.nextNodo
                 tmp = tmp.nextNodo
             return
+
+            
     """
         eliminamos por posicion
     """
